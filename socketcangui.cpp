@@ -1,5 +1,5 @@
 /* written 2009, 2010 by Jannis Achstetter
- * contact: s25581@h-ab.de
+ * contact: kripton@kripserver.net
  *
  * developed at Hochschule Aschaffenburg
  * licensed under the terms of the General Public
@@ -148,7 +148,7 @@ void socketcangui::about() {
       "<p>written 2009/2010 by Jannis Achstetter</p>"
       "<p>developed at Hochschule Aschaffenburg</p>"
       "<p>licensed under the terms of the General Public License (GPL) version 3.0</p>"
-      "<br /><p><a href=mailto:s25581@h-ab.de>s25581@h-ab.de</a></p>"));
+      "<br /><p><a href=mailto:kripton@kripserver.net>kripton@kripserver.net</a></p>"));
 }
 
 /*!
